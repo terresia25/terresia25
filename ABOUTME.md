@@ -1,4 +1,0 @@
-- 👋 Welcome, I'm Terresia, plz call me terri :)
-- 👀 I’m interested in backend  
-- 🌱 But these days I'm studying about Nodejs & data analysis 
-- 💞️ If u want contact with me, email cc0306@naver.com :)
